@@ -1,2 +1,0 @@
-# Emart
-CDAC Project
